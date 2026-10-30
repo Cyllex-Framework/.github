@@ -35,9 +35,12 @@ who care about this and want to do it well.
 **Argus** is a local-first threat intelligence tool. It collects sources, reads them, and
 consolidates them into a sourced, confidence-scored view of a threat, with a quote behind
 every claim.
-https://github.com/Cyllex-Framework/Cyllex-Argus
 
-More tools for emulation and detection are on the way.
+**Proteus** is an adversary emulation framework. It takes what Argus learns and turns it
+into runnable adversary behaviour, so you can test whether your defences catch what the
+threat actually does.
+
+Both repositories are private for now. Detection tooling is on the way.
 
 ## Author
 
