@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Cyllex-Framework/.github/main/profile/logo.jpg" alt="Cyllex" width="110">
+<img src="https://raw.githubusercontent.com/Cyllex-Framework/.github/main/profile/logo.png" alt="Cyllex" width="110">
 
 # Cyllex
 
