@@ -19,10 +19,10 @@ AI-driven threat intelligence and adversary emulation.
 Cyllex is a project that applies AI to real cybersecurity work: threat intelligence,
 adversary emulation, detection, and sharing what we learn along the way. The point is to
 let AI handle the heavy lifting of research, reading piles of reports and tracking what an
-adversary actually does, so the analyst can focus on the judgement. It's built by people
-who care about this and want to do it well.
+adversary actually does, so the analyst can focus on the judgement. It's an independent
+project, built by one person who cares about doing it well.
 
-## What we work on
+## Focus
 
 - Threat intelligence: collecting sources, reading them, and building a clear, sourced
   picture of a threat.
