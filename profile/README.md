@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/Cyllex-Framework/.github/main/profile/logo.png" alt="Cyllex" width="110">
 
-# Cyllex
-
 AI-driven threat intelligence and adversary emulation.
 
 <a href="https://cyllex.io">cyllex.io</a> ·
