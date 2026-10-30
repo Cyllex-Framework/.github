@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Cyllex-Framework/.github/main/profile/logo.png" alt="Cyllex" width="110">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyllex-Framework/.github/main/profile/cyllex-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cyllex-Framework/.github/main/profile/cyllex-light.png">
+  <img src="https://raw.githubusercontent.com/Cyllex-Framework/.github/main/profile/cyllex-dark.png" alt="Cyllex" width="340">
+</picture>
 
 AI-driven threat intelligence and adversary emulation.
 
