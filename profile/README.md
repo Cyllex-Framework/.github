@@ -26,21 +26,27 @@ who care about this and want to do it well.
 
 - Threat intelligence: collecting sources, reading them, and building a clear, sourced
   picture of a threat.
-- Adversary emulation: turning that intelligence into TTPs you can run.
-- Detection: going from adversary behaviour to the rules that catch it.
+- Adversary emulation: running real techniques against a target.
+- Detection: proving whether your SIEM/EDR actually caught them.
 - Knowledge: writing it down and sharing it openly.
 
 ## Projects
 
-**Argus** is a local-first threat intelligence tool. It collects sources, reads them, and
-consolidates them into a sourced, confidence-scored view of a threat, with a quote behind
-every claim.
+**Argus** is a local-first, AI-powered threat intelligence tool. Given a threat, an actor,
+a campaign, a piece of malware or a tool, it searches for sources, reads the reports, and
+extracts what each one claims, with a verbatim quote behind every claim. It then
+consolidates those claims into a confidence-scored view mapped to MITRE ATT&CK, separating
+what several sources corroborate from what rests on a single source or is contested. From
+there it can generate framework-ready TTPs and Sigma rules, export STIX, and serve it all
+over TAXII.
 
-**Proteus** is an adversary emulation framework. It takes what Argus learns and turns it
-into runnable adversary behaviour, so you can test whether your defences catch what the
-threat actually does.
+**Proteus** is a self-contained purple-team framework for adversary emulation and
+detection validation. It runs real MITRE ATT&CK techniques across agent, agentless
+(WinRM/SSH), cloud and container targets, then correlates each one against your SIEM/EDR
+to answer whether detection actually fired. It ships with its own library of techniques
+and runs on its own. It can also load TTP packs from other sources when you want it to.
 
-Both repositories are private for now. Detection tooling is on the way.
+Both repositories are private for now.
 
 ## Author
 
