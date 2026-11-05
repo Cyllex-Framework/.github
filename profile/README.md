@@ -47,7 +47,7 @@ detection validation. It runs real MITRE ATT&CK techniques across agent, agentle
 to answer whether detection actually fired. It ships with its own library of techniques
 and runs on its own. It can also load TTP packs from other sources when you want it to.
 
-Both repositories are private for now.
+Cyllex-Framework is coming soon!
 
 ## Author
 
