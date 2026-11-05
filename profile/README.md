@@ -36,8 +36,9 @@ project, built by one person who cares about doing it well.
 a campaign, a piece of malware or a tool, it searches for sources, reads the reports, and
 extracts what each one claims, with a verbatim quote behind every claim. It then
 consolidates those claims into a confidence-scored view mapped to MITRE ATT&CK, separating
-what several sources corroborate from what rests on a single source or is contested. From
-there it can generate framework-ready TTPs and Sigma rules, export STIX, and serve it all
+what several sources corroborate from what rests on a single source or is contested. 
+
+[Soon] : From there it can generate framework-ready TTPs and Sigma rules, export STIX, and serve it all
 over TAXII.
 
 **Cyllex-Framework** is a self-contained purple-team framework for adversary emulation and
