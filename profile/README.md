@@ -52,4 +52,4 @@ Cyllex-Framework is coming soon!
 ## Author
 
 Cyllex is built by Raúl Redondo.
-[X](https://x.com/_RayRT) · [Web](https://rayrt.gitlab.io/) · [LinkedIn](https://www.linkedin.com/in/ra%C3%BAlredondo/)
+[X](https://x.com/_RayRT) · [Web](https://rayrt.gitlab.io/) · [LinkedIn](https://www.linkedin.com/in/ra%C3%BAlredondo/) · [Github](https://github.com/RayRRT)
