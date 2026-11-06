@@ -41,7 +41,7 @@ what several sources corroborate from what rests on a single source or is contes
 [Soon] : From there it can generate framework-ready TTPs and Sigma rules, export STIX, and serve it all
 over TAXII.
 
-[Argus Repository](https://github.com/Cyllex-Framework/Cyllex-Argus/tree/main)
+[Argus Repository](https://github.com/Cyllex-Framework/Cyllex-Argus)
 
 
 **Cyllex-Framework** is a self-contained purple-team framework for adversary emulation and
